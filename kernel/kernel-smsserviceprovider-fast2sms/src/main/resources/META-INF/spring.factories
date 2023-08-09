@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.mosip.kernel.smsserviceprovider.fast2sms.exception.ApiExceptionHandler,\
+io.mosip.kernel.smsserviceprovider.fast2sms.impl.SMSServiceProviderImpl
